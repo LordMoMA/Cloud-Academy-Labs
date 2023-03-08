@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,    
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
+    "workbench.silentNotifications": true
+}
